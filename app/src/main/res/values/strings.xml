@@ -2,6 +2,6 @@
 <resources>
 
     <string name="app_name">CreatedWithAIDE</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello world, this app created with AIDE!</string>
 
 </resources>
